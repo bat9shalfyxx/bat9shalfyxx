@@ -105,14 +105,6 @@ I'm a **Frontend Developer** passionate about building modern, performant web ap
 
 ---
 
-## More about me as learner:
-- I maintain a structured knowledge base in **Obsidian** — helps me learn faster and retain information
-- ~100 algorithmic problems solved across LeetCode & CodeWars
-- I watch movies/series in English without subtitles (B2 level)
-- Linux user
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bat9shalfyxx&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
