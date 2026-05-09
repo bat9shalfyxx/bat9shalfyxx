@@ -98,7 +98,6 @@ I'm a **Frontend Developer** passionate about building modern, performant web ap
 ---
 
 ## Contact Me
-
 - **Telegram:** [@t1sh0ck](https://t.me/t1sh0ck)
 - **Email:** [shokirovttt192@gmail.com](mailto:shokirovttt192@gmail.com)
 - **GitHub:** [bat9shalfyxx](https://github.com/bat9shalfyxx)
@@ -107,7 +106,6 @@ I'm a **Frontend Developer** passionate about building modern, performant web ap
 ---
 
 ## More about me as learner:
-
 - I maintain a structured knowledge base in **Obsidian** — helps me learn faster and retain information
 - ~100 algorithmic problems solved across LeetCode & CodeWars
 - I watch movies/series in English without subtitles (B2 level)
