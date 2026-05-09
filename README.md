@@ -57,7 +57,7 @@ I'm a **Frontend Developer** passionate about building modern, performant web ap
 
 ## 📂 Highlight Projects:
 
-### [Team Finder Platform](https://github.com/bat9shalfyxx/proj.git)
+### [Team Finder Platform](https://github.com/bat9shalfyxx/proj)
 **Stack:** JavaScript + Python + Django + SQLite + SCSS  
 **Role:** Full-stack Developer (team project using Git)
 - Full frontend implementation
@@ -66,7 +66,7 @@ I'm a **Frontend Developer** passionate about building modern, performant web ap
 - Figma layout to responsive HTML/CSS conversion
 - Mobile design refinement
 
-### [Telegram Bot with OpenAI API](https://github.com/bat9shalfyxx/tg-bot.git)
+### [Telegram Bot with OpenAI API](https://github.com/bat9shalfyxx/tg-bot)
 **Stack:** Node.js (grammy/openai/esbuild/vitest) + TypeScript
 - OpenAI API integration
 - CI/CD with GitHub Actions (clean install, testing, linting, build, deploy)
@@ -74,7 +74,7 @@ I'm a **Frontend Developer** passionate about building modern, performant web ap
 - Unit tests with Vitest (coverage thresholds)
 - Linting with Biome
 
-### [Client Service Sales Website](https://github.com/bat9shalfyxx/portfolio-order.git)
+### [Client Service Sales Website](https://github.com/bat9shalfyxx/portfolio-order)
 **Stack:** React + TypeScript + EmailJS + SCSS Modules + Vite
 - Service subscription via email form submission
 - SEO optimization & semantic layout
