@@ -20,6 +20,7 @@ I'm a **Frontend Developer** passionate about building modern, performant web ap
 - **Open to:** Full-time, part-time, project work, internship
 - **Currently learning:** Algorithms & Data Structures (~100 problems solved on LeetCode & CodeWars)
 - **Knowledge management:** I use Obsidian to structure and retain information
+- **Level of english:** B2-C1 (can easily read documentation / watch series / videos)
 
 ---
 
@@ -58,8 +59,8 @@ I'm a **Frontend Developer** passionate about building modern, performant web ap
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bat9shalfyxx&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bat9shalfyxx&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://render-gitstats.vercel.app/api?username=bat9shalfyxx&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://render-gitstats.vercel.app/api/top-langs/?username=bat9shalfyxx&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
 
 <p align="center">
@@ -71,7 +72,6 @@ I'm a **Frontend Developer** passionate about building modern, performant web ap
 ## Contact Me
 - **Telegram:** [@t1sh0ck](https://t.me/t1sh0ck)
 - **Email:** [shokirovttt192@gmail.com](mailto:shokirovttt192@gmail.com)
-- **GitHub:** [bat9shalfyxx](https://github.com/bat9shalfyxx)
 - **Phone:** +7 (987) 431-81-96
 
 ---
