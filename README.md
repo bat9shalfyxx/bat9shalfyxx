@@ -57,9 +57,10 @@ I'm a **Frontend Developer** passionate about building modern, performant web ap
 ---
 
 ## GitHub Stats
-
-![GitHub Stats](https://render-gitstats.vercel.app/api?username=bat9shalfyxx&show_icons=true&theme=radical)
-![Top Languages](https://render-gitstats.vercel.app/api/top-langs/?username=bat9shalfyxx&layout=compact&theme=radical)
+<p align="center">
+  ![GitHub Stats](https://gh-readme-stats.li-chat.com/api?username=bat9shalfyxx&show_icons=true&theme=radical)
+  ![Top Languages](https://gh-readme-stats.li-chat.com/api/top-langs/?username=bat9shalfyxx&layout=compact&theme=radical)
+</p>
   
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bat9shalfyxx&theme=radical" alt="Streak Stats"/>
