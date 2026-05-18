@@ -57,13 +57,13 @@ I'm a **Frontend Developer** passionate about building modern, performant web ap
 ---
 
 ## GitHub Stats
-<p align="center">
+<p align="center" style="transform: scale(0.7);">
   <img src="https://github-stats-lilac-seven.vercel.app/api/top-langs/?username=bat9shalfyxx&layout=compact&theme=radical" alt="Top Languages" style="transform: scale(0.7);"/>
 </p>
-<p align="center">
+<p align="center" style="transform: scale(0.7);">
   <img src="https://github-stats-lilac-seven.vercel.app/api?username=bat9shalfyxx&show_icons=true&theme=radical" alt="GitHub Stats" style="transform: scale(0.7);"/>
 </p>
-<p align="center">
+<p align="center" style="transform: scale(0.7);">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bat9shalfyxx&theme=radical" alt="Streak Stats" style="transform: scale(0.7);"/>
 </p>
 
