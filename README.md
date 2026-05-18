@@ -58,8 +58,8 @@ I'm a **Frontend Developer** passionate about building modern, performant web ap
 
 ## GitHub Stats
 <p align="center">
-  ![GitHub Stats](https://gh-readme-stats.herokuapp.com/?username=bat9shalfyxx&show_icons=true&theme=radical)
-  ![Top Languages](https://gh-readme-stats.li-chat.com/api/top-langs/?username=bat9shalfyxx&layout=compact&theme=radical)
+  ![GitHub Stats](https://gh-readme-stats.herokuapp.com/api?username=bat9shalfyxx&show_icons=true&theme=radical)
+  ![Top Languages](https://gh-readme-stats.herokuapp.com/api/top-langs/?username=bat9shalfyxx&layout=compact&theme=radical)
 </p>
   
 <p align="center">
