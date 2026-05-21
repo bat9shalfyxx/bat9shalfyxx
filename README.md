@@ -34,7 +34,6 @@ I'm a **Frontend Developer** passionate about building modern, performant web ap
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![BEM](https://img.shields.io/badge/BEM-000000?style=flat-square&logo=bem&logoColor=white)
 
 ### Backend & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -59,9 +58,6 @@ I'm a **Frontend Developer** passionate about building modern, performant web ap
 ## GitHub Stats
 <p align="center" >
   <img src="https://github-stats-lilac-seven.vercel.app/api/top-langs/?username=bat9shalfyxx&layout=compact&theme=radical" alt="Top Languages" width="270" />
-</p>
-<p align="center" >
-  <img src="https://github-stats-lilac-seven.vercel.app/api?username=bat9shalfyxx&show_icons=true&theme=radical" alt="GitHub Stats" width="360" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bat9shalfyxx&theme=radical" alt="Streak Stats" width="380" />
